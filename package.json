@@ -9,8 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@initia/react-wallet-widget": "^0.216.0",
-    "@initia/wallet-widget": "^0.216.0",
+    "@initia/react-wallet-widget": "^0.219.0",
+    "@initia/utils": "^0.125.0",
+    "@initia/wallet-widget": "^0.219.0",
     "next": "14.2.20",
     "react": "^18",
     "react-dom": "^18"

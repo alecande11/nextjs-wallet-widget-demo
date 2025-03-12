@@ -1,5 +1,5 @@
 "use client";
-import { useWallet } from "@initia/react-wallet-widget";
+import { useWallet } from "@initia/react-wallet-widget/ssr";
 import styles from "./page.module.css";
 
 export default function Home() {
